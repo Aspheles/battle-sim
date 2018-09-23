@@ -1,0 +1,78 @@
+#combatlog {
+
+margin: 0 auto;
+width: 50%;
+border: 1px solid white;
+
+
+}
+
+#buttonContainer {
+
+margin: 16px auto;
+width: 50%;
+display: flex;
+justify-content: center;
+
+
+
+}
+
+button {
+
+background-color: black;
+color: white;
+margin-right: 50px;
+
+
+
+
+}
+
+#healthBars {
+
+width: 50%;
+margin: 16px auto;
+justify-content: space-between;
+display: flex;
+
+
+}
+
+#bar {
+
+font-weight: bold;
+
+}
+
+
+
+
+.playerimage {
+
+height: 25%;
+width: 25%;
+top: 0px;
+
+}
+
+.enemyimage {
+
+height: 50%;
+width: 25%;
+position: absolute;
+top: 0px;
+right: 16px;
+
+}
+
+html {
+
+background-color: black;
+color: white;
+font-family: 'Courier New', Courier, monospace;
+
+
+
+
+}
